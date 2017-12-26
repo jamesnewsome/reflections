@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a repository, your creating the objects that git uses to track changes in commits to the files. 
