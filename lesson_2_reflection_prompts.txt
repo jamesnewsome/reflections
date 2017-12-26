@@ -1,2 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
-When you initialize a repository, your creating the objects that git uses to track changes in commits to the files. 
+
+	When you initialize a repository, your creating the objects that git uses to track changes in commits to the files. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area works as an intermediate area between the working directory and the repository. It appears to be useful as it allows the user to decide when something should be committed to the repository. 
